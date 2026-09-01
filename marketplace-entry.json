@@ -5,7 +5,7 @@
   "source": {
     "source": "url",
     "url": "https://github.com/FriskyDevelopments/folios-grok-plugin.git",
-    "sha": "PIN_AFTER_FIRST_PUBLIC_COMMIT"
+    "sha": "3173df8254ebc1d53a2e936edf474cf4949c709c"
   },
   "homepage": "https://folios.works",
   "keywords": ["folios", "folios.works", "cfdi", "folios grok"],
