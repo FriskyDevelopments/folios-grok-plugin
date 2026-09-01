@@ -1,0 +1,13 @@
+{
+  "name": "folios",
+  "description": "Folios commercial invoicing for Grok. Manage clients, leads, and invoice drafts through the Folios Worker. Structural validation only — stamping is not included.",
+  "category": "productivity",
+  "source": {
+    "source": "url",
+    "url": "https://github.com/FriskyDevelopments/folios-grok-plugin.git",
+    "sha": "PIN_AFTER_FIRST_PUBLIC_COMMIT"
+  },
+  "homepage": "https://folios.works",
+  "keywords": ["folios", "folios.works", "cfdi", "folios grok"],
+  "domains": ["folios.works", "mcp.folios.works", "aurora.folios.works"]
+}

@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "folios": {
+      "type": "http",
+      "url": "https://mcp.folios.works/mcp",
+      "note": "Canonical Folios remote MCP. Human/interactive access uses Folios OAuth tied to a real user session. Do not place PAC, CSD, Neon, or machine tokens in this file. Stamping and cancellation tools are not exposed."
+    }
+  }
+}

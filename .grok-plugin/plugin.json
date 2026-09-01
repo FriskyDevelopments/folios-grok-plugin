@@ -1,0 +1,14 @@
+{
+  "name": "folios",
+  "version": "0.1.0",
+  "description": "Connect Grok to Folios for clients, leads, and commercial invoice drafts. Structural validation only — stamping is not included.",
+  "author": {
+    "name": "Frisky Developments",
+    "url": "https://folios.works"
+  },
+  "homepage": "https://folios.works",
+  "repository": "https://github.com/FriskyDevelopments/folios-grok-plugin",
+  "license": "Proprietary",
+  "keywords": ["folios", "folios.works", "cfdi", "folios grok"],
+  "logo": "assets/logo.svg"
+}
